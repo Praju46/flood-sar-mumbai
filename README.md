@@ -63,6 +63,14 @@ areas in Mumbai during extreme rainfall events.
 - Summary statistics and spatial analysis outputs
 
 ---
+## How to Run (Google Earth Engine)
+1. Open the script from `gee/flood_mapping_mumbai.js`
+2. Copy-paste into GEE Code Editor
+3. Set Mumbai boundary (ROI)
+4. Set pre-flood and post-flood dates
+5. Run the script
+6. Export flood extent results to Drive
+
 
 ## Status
 
